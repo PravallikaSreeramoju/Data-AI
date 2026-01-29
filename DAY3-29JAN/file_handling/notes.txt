@@ -1,3 +1,0 @@
-welcome to python file handling!
-this is a sample  file.
-this line is appended to the file.
