@@ -1,0 +1,3 @@
+2026-01-30 09:10:45 ERROR [DatabaseService] Connection timeout
+2026-01-30 09:15:30 INFO  [OrderService] Order placed successfully
+2026-01-30 09:20:01 WARN  [SecurityService] Multiple failed login attempts

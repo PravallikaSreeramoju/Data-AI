@@ -1,0 +1,9 @@
+disk usage monitoring script total, used, free,  
+automatic file backup script,  
+log file error extractor,  . 
+system usage monitor
+folder cleanup automation : remove temp files of disk, %temp% remove files in this
+csv report generator : 
+password strength checker
+ping multiple script
+file renamer script
