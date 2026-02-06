@@ -1,0 +1,9 @@
+EmployeeID,Name,Department,Designation,Salary,Age,Gender,JoiningDate,Email
+101,Rahul Sharma,IT,Software Engineer,60000,25,M,2022-06-15,rahul.sharma@company.com
+102,Priya Verma,HR,HR Executive,45000,28,F,2021-03-10,priya.verma@company.com
+103,Ankit Patel,Finance,Accountant,50000,30,M,2020-11-25,ankit.patel@company.com
+104,Sneha Reddy,Marketing,Marketing Manager,70000,32,F,2019-08-05,sneha.reddy@company.com
+105,Amit Kumar,IT,Data Analyst,65000,27,M,2022-01-20,amit.kumar@company.com
+106,Neha Singh,Sales,Sales Executive,40000,26,F,2023-02-12,neha.singh@company.com
+107,Rohit Mehta,Operations,Operations Lead,75000,35,M,2018-05-30,rohit.mehta@company.com
+108,Kavya Iyer,IT,Backend Developer,68000,29,F,2021-09-18,kavya.iyer@company.com
