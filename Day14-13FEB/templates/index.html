@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Registration</title>
+</head>
+<body>
+
+    <h2>User Registration Form</h2>
+
+    {% if success %}
+        <p style="color:green;">{{ success }}</p>
+    {% endif %}
+
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% endif %}
+
+    <form method="POST">
+        Name: <input type="text" name="name"><br><br>
+        Email: <input type="text" name="email"><br><br>
+        Age: <input type="text" name="age"><br><br>
+        <button type="submit">Register</button>
+    </form>
+
+</body>
+</html>
