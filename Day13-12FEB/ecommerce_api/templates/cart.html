@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h3>Your Cart</h3>
+
+{% for item in items %}
+  <div class="card mb-2 p-2">
+    {{ item.name }} — ₹{{ item.price }}
+    <a href="/cart/remove/{{ item.id }}" class="btn btn-danger btn-sm">Remove</a>
+  </div>
+{% endfor %}
+
+<a href="/checkout" class="btn btn-success">Checkout</a>
+
+{% endblock %}
